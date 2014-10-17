@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tna:home|Door43 (tna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tna|d43-tna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tna/archive/master.zip|d43-tna.zip]]
+
+**Recent Changes**
+{{changes>ns = tna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tna|Ethnologue data]]
+
